@@ -17,6 +17,6 @@ PWYM is in the process of developing into multiple content areas:
 * Vanessa Gennarelli - P2PU/Stellar.org
 * Dirk Uhys - P2PU
 * Bradford Swanson - iZotope
-
+* YOU - all of you participating at http://playwithyourmusic.org/
 
 
