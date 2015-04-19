@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=nDsTPDr-rF8
 
 To really dive deep into the musical content of the song, you might find it helpful to create a chord chart or lead sheet of your song. This is an especially valuable exercise for songwriters. Here is a <a href="https://docs.google.com/spreadsheet/ccc?key=0Avivo20O97AMdHM4YnNDRV94WC1xQ0FMY3h3NEU1X0E&amp;usp=sharing" target="_blank">chord chart</a> we created for "Sledgehammer" as a guide. 
 
-*Sledgehammer DNA - Early Demos*
+**Sledgehammer DNA - Early Demos**
 
 Take a listen into the early demos, scratch tracks, and mixes:
 
