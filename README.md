@@ -11,6 +11,8 @@ PWYM is in the process of developing into multiple content areas:
 * Play With Your Film Music
 * Play With Your Music Technology
 
+# Contribute to PWYM!
+
 Please fork, update, propose new content and courses, and submit them pull requests here on GitHub to help build and extend this community!  All content is posted here in markdown format for compatability with our [Discourse.org powered community](http://community.playwithyourmusic.org). Please post all updates as markdown.
 
 # Who originally created PWYM?
