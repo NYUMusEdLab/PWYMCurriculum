@@ -2,7 +2,7 @@
 
 Apply the process that Ethan introduced you to in [Project 1][1] to one of your favorite tunes:
 
-![](/Images/facce01ebf_690x362)
+![](/Images/blankstructuretemplate.png)
 
  1. Open up a copy of our <a href="https://drive.google.com/previewtemplate?id=0Al93L9k1G7ICdFNUWUZJRUZOWHJfb2lwTHVQUGZIR0E&mode=public">Musical Structure Graph Template</a>, and place the sound sources you hear in your recording down the left hand side of the graph. Note: You may choose a different song or a new song for this project. It's your choice. Also, be sure to add your name, place a link to your chosen recording, and fill in the Songwriter, Producer, and Engineer fields at the bottom of the graph.
 
