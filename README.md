@@ -11,7 +11,7 @@ PWYM is in the process of developing into multiple content areas:
 * Play With Your Film Music
 * Play With Your Music Technology
 
-Please fork, update, propose new content and courses, and submit them pull requests here on GitHub to help build and extend this community!
+Please fork, update, propose new content and courses, and submit them pull requests here on GitHub to help build and extend this community!  All content is posted here in markdown format for compatability with our [Discourse.org powered community](http://community.playwithyourmusic.org)
 
 # Who originally created PWYM?
 * Alex Ruthmann - Director, NYU Music Experience Design Lab
