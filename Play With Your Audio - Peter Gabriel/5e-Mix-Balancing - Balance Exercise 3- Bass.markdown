@@ -1,4 +1,4 @@
-# Balance Exercise 3: bass
+# Balance Exercise 3: Bass
 
 For this exercise, you’ll once again find [three tracks in Soundation from “In Your Eyes][1].” 
 
