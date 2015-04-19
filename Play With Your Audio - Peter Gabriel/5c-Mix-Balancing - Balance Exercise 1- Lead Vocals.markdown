@@ -22,7 +22,7 @@ We are using the first verse, pre-chorus, and chorus. Here is a recommended appr
 - **Step One:**
 Listen to the entire reference mix. It’s just two minutes of the full tune – a good representative cross section of the full work. Listen and acclimate yourself to the relative level of all the tracks: vocal, kick, snare, bass, piano, guitar, and the rest. Focus in particular on how the vocal sits just above the rest of the band, always revealing the intellectual content of the lyrics, and the emotional expression in the performance. It's not too loud, and not too soft. That’s the trick! 
 
-So what counts as too loud, and what is too soft?  Explore this by following the next steps.
+So what counts as too loud, and what is too soft?  Explore this by following the next steps:
 
 - **Step Two:**
 Mute the reference mix and pull up the other two tracks. Raise the ‘Mix-PG’ track until the level in your monitors (loudspeakers or headphones) feels about the same as the reference mix was during Step One. Then raise the vocal track, ‘PG’ to taste. Find a level you like.  
