@@ -15,7 +15,7 @@ We've curated a set of articles and videos that will take you deeper into the to
 ## Interviews with Music Producers about their Process
 - <a href="http://arpjournal.com/theme/interviews/">Interviews with Music Producers from the <em>Journal of the Art of Record Production</em></a>
 
-# >Share Resources with the #PWYM Community
+# Share Resources with the #PWYM Community
 Do you have links to other resources that you've found helpful? Perhaps links to online articles, or YouTube videos? If so, please **reply to this topic with the links**, post them to the [Share][1] category here in the PWYM Community, and share them out on social media using the hashtag #PWYMResources. Your community will love you!
 
 Rock On!
