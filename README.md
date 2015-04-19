@@ -1,5 +1,5 @@
 # PWYMCurriculum
-Online curriculum for Play With Your Music course content
+Online curriculum for Play With Your Music course content available at http://playwithyourmusic.org/.
 # About PWYMCurriculum
 Play With Your Music (#PWYM) is a massively open online <em>community</em> developed as an open learning and design project of the NYU Music Experience Design Lab. PWYM was developed in partnership with P2PU and artist partners Clara Berry and Peter Gabriel.
 
