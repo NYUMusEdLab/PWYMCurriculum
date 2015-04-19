@@ -34,7 +34,7 @@ After listening to the reference mix, mute the first two tracks, restart the son
 
 Most of all, take time to explore the stems trying different combinations and the tracks soloed. What do you in each individual track that you could not hear in the composite mix?  What surprises you? Can you "reverse engineer" how particular tracks might have been recorded or the specific effects that might be present or not present? Take detailed notes and share them with your Crew and the broader PWYM community.
 
-##How to Use Our Mix Interface
+# How to Use Our Mix Interface
 
 This is a quick guide to using the PWYM custom mix interface. We've developed this to walk you through *Sledgehammer*, but you can apply it to *In Your Eyes*, as well.
 
@@ -84,7 +84,7 @@ As you now know through your work in the first three Modules for PWYM, listening
 
 ***Note:*** These interfaces work best in [Google Chrome][10], but will also work in Firefox and Safari. They will not work in Internet Explorer. ***They are also not optimized to work on mobile devices*** such as iPads and tablets. Please be patient as the audio files load; you are downloading multiple large audio files. After the initial load period, the interface will reload more quickly.
 
-## Exploring these ideas through other music
+# Exploring these ideas through other music
 
 In PWYM 1.0, [Bradford Swanson][11] introduced these concepts through the music of [Clara Berry and Wooldog][12], a singer/songwriter duo out of Kennebunk, Maine. If you'd like to approach this through that music, see the following video:
 
@@ -92,7 +92,7 @@ http://www.youtube.com/watch?v=YuV11OZZhDI
 
 You can load a [multitrack remix interface for *Air Traffic*][13] here.
 
-## Can't Load our Remix Interface?
+# Can't Load our Remix Interface?
 
 Our license with Peter Gabriel prohibits us from making the multitrack stems available for direct download. However, an alternative project is to download the [multitrack samples from Peter Gabriel's *Shock the Monkey*][14] that Peter released as part of a remix contest for [SoundCloud][15] and load them into a DAW of your choosing. There are also other [multitracks available for remixing which you can find online][16]. Create a mix of one of those songs that you like and share it with your crew. 
 
