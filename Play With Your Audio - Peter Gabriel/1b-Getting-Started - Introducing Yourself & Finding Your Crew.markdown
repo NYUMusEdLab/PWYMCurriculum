@@ -5,7 +5,8 @@
  - Schedule for the course 	
  - The tools you’ll need
  - How to participate  	
- - Project deliverables: register for accounts and say “Hi” to the community
+ - Project deliverables: Register for accounts and say “Hi” to the community
+ 
  
  # Introduction To Play With Your Music - #PWYM
  
