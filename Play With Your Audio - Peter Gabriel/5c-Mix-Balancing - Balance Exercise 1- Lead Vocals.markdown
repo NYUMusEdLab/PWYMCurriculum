@@ -19,21 +19,21 @@ We are using the first verse, pre-chorus, and chorus. Here is a recommended appr
 
 ## Balancing the Lead Vocal
 
-**Step One:**
+- **Step One:**
 Listen to the entire reference mix. It’s just two minutes of the full tune – a good representative cross section of the full work. Listen and acclimate yourself to the relative level of all the tracks: vocal, kick, snare, bass, piano, guitar, and the rest. Focus in particular on how the vocal sits just above the rest of the band, always revealing the intellectual content of the lyrics, and the emotional expression in the performance. It's not too loud, and not too soft. That’s the trick! 
 
 So what counts as too loud, and what is too soft?  Explore this by following the next steps.
 
-**Step Two:**
+- **Step Two:**
 Mute the reference mix and pull up the other two tracks. Raise the ‘Mix-PG’ track until the level in your monitors (loudspeakers or headphones) feels about the same as the reference mix was during Step One. Then raise the vocal track, ‘PG’ to taste. Find a level you like.  
 
-**Step Three:**
+- **Step Three:**
 You’ll find it helpful to push the level up until it is clear to you that it is too loud. Then gradually back off until you know the level is too weak.  Then repeat, pushing the fader up and pulling it back down to define the range of level that seems valid. Above your top fader level is definitely too hot. Below is too cold.  But in between? What to do next?
 
-**Step Four:**
+- **Step Four:**
 Mute the ‘PG’ and ‘Mix-PG’ tracks and unmute the ‘Mix’ track.  Have a listen for the whole duration of the track with renewed focus on the level of Peter’s vocal compared to the rest of the track.
 
-**Step Five:**
+- **Step Five:**
 Iterate slowly and deliberately, but don’t quick-match.  That is, repeat Step Three above and see if you can’t narrow that fader range between too loud and too soft. Then repeat Step Four above and heighten your sensitivity to
 level. And repeat again, as desired. By doing this, you are learning to balance elements of a mix. Congrats!
 
