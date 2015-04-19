@@ -15,7 +15,7 @@ Open the [next exercise in Soundation][1], and you'll once again find [three tra
 
 We are again using just a carefully selected portion of the tune, one that represents the full variety of mix interactions: the first verse, pre-chorus, and chorus. We recommend again that you follow this approach to balancing the kit within the mix.
 
-33 Balancing the Kit
+## Balancing the Kit
 
 - **Step One:**
 Listen to the entire reference mix and acclimate yourself to the relative level of all of the tracks: vocal, kick, snare, bass, piano, guitar, and the rest. Focus in particular on how the kit sits in the mix with the rest of the band, spelling time, and grooving hard. Not too loud, not too soft. Again, that’s the trick!  What counts as too loud, and what is too soft? The next steps bring some aural perspective to the challenge.
