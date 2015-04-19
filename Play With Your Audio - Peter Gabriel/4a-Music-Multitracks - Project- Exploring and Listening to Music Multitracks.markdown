@@ -57,10 +57,12 @@ The two channels on the left are the complete original mixdown of "Sledgehammer,
  - PG Vox: Peter's lead vocal.
 
  Each channel has a mute, solo, pan and level control.
-![](Images/c8eec08b1d47e08f.png)
+ 
+![](/Images/c8eec08b1d47e08f.png)
+
 To begin exploring the multitrack, un-solo the mixdown channels on the left and start bringing up different stems, alone or in combination. You can discover some interesting things just by listening to the stems in isolation. For example, try soloing Peter's lead vocal:
 
-![](/Images/aabcf01bb98505da.png) 
+![](/Images/73ba73d55a_193x500.png) 
 
 Whenever Peter is singing, you can hear the rest of the instruments faintly in the background. This is a phenomenon called bleed, and it happens when undesired sound leaks into a mic. The best way to prevent bleed is to record instruments and singers in acoustic isolation. However, Peter added his vocals after the rest of the tracks were complete, so why is there bleed in his mic? 
 
