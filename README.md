@@ -7,9 +7,9 @@ PWYM started as a course focused on the creative processes of audio engineers an
 
 PWYM is in the process of developing into multiple content areas:
 * [Play With Your Audio](https://github.com/NYUMusEdLab/PWYMCurriculum/tree/master/Play%20With%20Your%20Audio%20-%20Peter%20Gabriel) - A rebranding of the original PWYM course on audio engineering and production
-* Play With Your Music Theory
-* Play With Your Film Music
-* Play With Your Music Technology
+* Play With Your Music Theory - A practical introduction to music theory under the supervision of [Ethan Hein](http://ethanhein.com).
+* Play With Your Film Music - Coming soon in Fall 2015!
+* Play With Your Music Technology - Coming soon in Fall 2015!
 
 # Contribute to PWYM!
 
