@@ -58,7 +58,7 @@ The two channels on the left are the complete original mixdown of "Sledgehammer,
 
  Each channel has a mute, solo, pan and level control.
  
-![](/Images/c8eec08b1d47e08f.png)
+![](/Images/41cfd4a974_690x494.png)
 
 To begin exploring the multitrack, un-solo the mixdown channels on the left and start bringing up different stems, alone or in combination. You can discover some interesting things just by listening to the stems in isolation. For example, try soloing Peter's lead vocal:
 
@@ -71,14 +71,16 @@ Usually singers use headphones to prevent bleed. However, some singers don't lik
 If you solo the guitar, you'll notice that there is no bleed whatsoever. Even if the guitarists were playing live with the rest of the band, their sound is perfectly isolated. Either their amps were in separate rooms totally sealed off from the rest of the studio, or the guitars were just plugged straight into the soundboard. If the signal never passes through the air, there's no difficulty in keeping it isolated.
 
 Once you've finished your mix, how do you share it with the world? The answer is in the little code at the end of the web page address.
+
 ![](/Images/9262a14579bc2ae2.png)
+
 Each time you move a control, you'll notice the code changing automatically. When you're happy with your mix, all you have to do is copy the web page address and paste it into a forum post, an email or wherever you'd like. Then anyone can click the link, and the mix interface will load with your settings all dialed in. Pretty cool. Happy mixing!
 
 **Further ideas**
 
 As you now know through your work in the first three Modules for PWYM, listening to a song while viewing a visual analysis can often help you hear more details about a particular song and recording. You know that you learn even more when you are the one who creates the analysis to a favorite song. To help you hear more within *Sledgehammer, we've provided a link to our [Perceived Space][8] and [Musical Structure Graphs][9] for Sledgehammer and encourage you to view them while working on this project as a point of reference.
 
-![](/Images/eb39b9865fcf3e12.png)
+![](/Images/e827401d8a_638x500.png)
 
 ***Note:*** These interfaces work best in [Google Chrome][10], but will also work in Firefox and Safari. They will not work in Internet Explorer. ***They are also not optimized to work on mobile devices*** such as iPads and tablets. Please be patient as the audio files load; you are downloading multiple large audio files. After the initial load period, the interface will reload more quickly.
 
