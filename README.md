@@ -6,7 +6,7 @@ Play With Your Music (#PWYM) is a massively open online <em>community</em> devel
 PWYM started as a course focused on the creative processes of audio engineers and producers. Today, PWYM is the umbrella for these projects hosted at http://playwithyourmusic.org.
 
 PWYM is in the process of developing into multiple content areas:
-* [Play With Your Audio](https://github.com/NYUMusEdLab/PWYMCurriculum/tree/master/Play%20With%20Your%20Audio%20-%20Peter%20Gabriel) - A rebranding of the original PWYM course on audio engineering and production
+* [Play With Your Audio]([https://github.com/NYUMusEdLab/PWYMCurriculum/tree/master/Play%20With%20Your%20Audio%20-%20Peter%20Gabriel](https://github.com/NYUMusEdLab/PWYMCurriculum/blob/master/Play%20With%20Your%20Audio/1a-Getting-Started%20-%20How%20to%20Listen%20to%20Music%20in%20thie%20Course.markdown)) - A rebranding of the original PWYM course on audio engineering and production
 * Play With Your Music Theory - A practical introduction to contemporary music theory under the supervision of [Ethan Hein](http://ethanhein.com).
 * Play With Your Film Music - Coming soon in Fall 2015!
 * Play With Your Music Technology - Coming soon in Fall 2015!
